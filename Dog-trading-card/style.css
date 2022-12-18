@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card {
+  width: 320px;
+  margin: 0 auto;
+  border: 1px solid #DCDCDC;
+  box-shadow: 6px 6px 1px 0px #EBEBEB;
+  padding-right: .7em;
+  padding-left: .7em;
+  padding-bottom: .6em;
+}
+
+.name {
+font: bold 20pt sans-serif;
+padding-left: 10px;
+margin-top: 5px;
+margin-bottom: 10px;
+box-shadow: 2px;
+}
+
+.image {
+    width: 296px;
+    height: 200px;
+    padding-bottom: .8em;
+}
+
+.information {
+    border: 1px solid #DCDCDC;
+    padding: 10px;
+    text-align: justify;
+}
+
+.fact {
+font-style: italic;
+font-weight: bold;
+margin: 0px;
+}
+
+ul {
+    text-align: left;
+    list-style-type: none;
+    padding-left: 0pt;
+}
+
+hr {
+border-top: 2px solid black;
+}
+
+.description {
+    margin:0px;
+}
